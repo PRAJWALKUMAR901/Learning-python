@@ -26,12 +26,13 @@ elif percent >= 80:
     print("OK")
 elif percent >= 70:
     print()
-    print("BELOW AVERAGE??")
+    print()
 elif percent >= 60:
     print()
-    print("BAD????")
+    print()
 else:
     print()
-    print("GO READ 24 HOURS YOU DUMBBBBB")
+    print(???)
+
 
 
